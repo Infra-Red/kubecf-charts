@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  cf-operator:
+  - apiVersion: v1
+    created: "2020-01-20T18:50:14.181519+01:00"
+    description: A Helm chart for cf-operator, the k8s operator for deploying BOSH
+      releases
+    digest: 17f34a4d741b6b653210efece7a894037dbf45d73b2655edc160b8d7a5994065
+    name: cf-operator
+    urls:
+    - https://infra-red.github.io/kubecf-charts/cf-operator-v1.0.3-0.g5dd886a5.tgz
+    version: v1.0.3-0.g5dd886a5
+generated: "2020-01-20T18:50:14.17959+01:00"
